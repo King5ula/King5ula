@@ -61,6 +61,6 @@ An enterprise-grade, fully type-safe software ecosystem engineered from scratch 
 ---
 
 ## 📈 Connect With Me
-* **LinkedIn:** [Your LinkedIn Profile Link]
+* **LinkedIn:** [www.linkedin.com/in/david-tuisaula-5655bb3b5]
 * **Portfolio Website:** [Your Portfolio Link]
-* **Email:** [Your Email Address]
+* **Email:** [davidtuisaulaauvaa@gmail.com]
