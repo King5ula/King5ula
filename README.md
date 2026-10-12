@@ -1,6 +1,6 @@
 # David Tuisaula
 
-Full stack developer in New Zealand. Looking for a junior role, open to freelance.
+Full stack developer in New Zealand. Looking for freelance roles.
 
 **Stack:** TypeScript, React, Next.js, Node, Express, Python, FastAPI, PostgreSQL, MongoDB
 
