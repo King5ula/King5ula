@@ -1,9 +1,12 @@
-# David Tuisaula
+# Hi, I'm David.
 
-Full stack developer in New Zealand. Looking for freelance roles.
+I'm a full stack developer in New Zealand. I work across the front end, the back end and the database, and most of my recent projects have an AI feature in them somewhere.
 
-**Stack:** TypeScript, React, Next.js, Node, Express, Python, FastAPI, PostgreSQL, MongoDB
+**Front end:** React, Next.js, TypeScript, Tailwind  
+**Back end:** Node, Express, Python, FastAPI  
+**Data:** PostgreSQL, MongoDB, MySQL  
+**AI:** Claude API, RAG, AWS Rekognition
 
-**Also:** Claude API, RAG, AWS Rekognition, Docker, GitHub Actions
+Open to freelance work.
 
 [Portfolio](https://my-portfolio-frontend-delta-eight.vercel.app) · [LinkedIn](https://www.linkedin.com/in/david-tuisaula-5655bb3b5) · [Email](mailto:davidtuisaulaauvaa@gmail.com)
